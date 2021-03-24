@@ -1,0 +1,1 @@
+console.log("User does not own pirated copy")
